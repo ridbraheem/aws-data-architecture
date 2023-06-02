@@ -1,0 +1,43 @@
+{
+  "objectid": "5262398",
+  "parking_space_id": "0.0",
+  "post_id": "363-04151",
+  "ms_pay_station_id": "-",
+  "ms_space_num": "0.0",
+  "sensor_flag": "N",
+  "on_offstreet_type": "ON",
+  "osp_id": "0.0",
+  "jurisdiction": "SFMTA",
+  "pm_district_id": "12.0",
+  "blockface_id": "363041.0",
+  "active_meter_flag": "U",
+  "reason_code": "U4",
+  "smart_meter_flag": "N",
+  "meter_type": "-",
+  "meter_vendor": "-",
+  "meter_model": "-",
+  "cap_color": "-",
+  "pco_beat": "105",
+  "old_rate_area": "-",
+  "street_id": "363.0",
+  "street_name": "COLUMBUS AVE",
+  "street_num": "415.0",
+  "parity_digit_position": "2",
+  "street_seg_ctrln_id": "4294000.0",
+  "orientation": "225.0",
+  "longitude": "-122.4083926175",
+  "latitude": "37.7989496065",
+  "pmr_route": "G-4",
+  "shape": {
+    "type": "Point",
+    "coordinates": [
+      -122.408394,
+      37.79895
+    ]
+  },
+  ":@computed_region_jwn9_ihcz": "106",
+  ":@computed_region_6qbp_sg9q": "106",
+  ":@computed_region_qgnn_b9vv": "6",
+  ":@computed_region_26cr_cadq": "3",
+  ":@computed_region_ajp5_b2md": "6"
+}
