@@ -1,1 +1,1 @@
-# aws-data-arvhitecture
+# aws-data-architecture
