@@ -1,0 +1,10 @@
+{
+ "transmission_datetime": "-6707106668_11_05182023094105", 
+ "post_id": "902-00002",
+ "street_block": "California and Steiner Lot",
+ "payment_type": "CREDIT CARD", 
+ "session_start_dt": "2023-05-18T09:41:05.000", 
+ "session_end_dt": "2023-05-19T00:00:15.000",
+ "meter_event_type": "NS",
+ "gross_paid_amt": "32.05"
+}
